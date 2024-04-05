@@ -3,7 +3,7 @@ Producto de software dedicada a la gestión de proyectos de construcción, facil
 ***
 
 ## Integrantes
-1. **Persona 1** - **codigo** - [LinkeIn](https://www.linkedin.com/in/usuario/ "LinkedIn" )
+1. **Alvaro Crispin** - **U202020328** - [LinkeIn](https://www.linkedin.com/in/alvaro-crispin/ "LinkedIn" )
 2. **Persona 2** - **codigo** - [LinkeIn](https://www.linkedin.com/in/usuario/ "LinkedIn" )
 3. **Persona 3** - **codigo** - [LinkeIn](https://www.linkedin.com/in/usuario/ "LinkedIn" )
 4. **Persona 4** - **codigo** - [LinkeIn](https://www.linkedin.com/in/usuario/ "LinkedIn" )
