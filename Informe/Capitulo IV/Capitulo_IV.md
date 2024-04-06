@@ -67,3 +67,37 @@ Enlace figma: [https://shorturl.at/adtFZ](https://shorturl.at/adtFZ)
 ![](https://lh7-us.googleusercontent.com/x6wxByr-PRAYL0X6v1HZJYUKFOwqjviRhuA3f3ZdX6PY_rOXAbZytTKXvYHrpW174DP2XzR--lST8UPtRnQfNVTv_acxMrZq2pWfaii4tIjws7IkHQ3UTDKW0zqA2OhRIbk0nEO7cQUKlpwqJZawX3c)
 
 Enlace figma: [https://shorturl.at/adtFZ](https://shorturl.at/adtFZ)
+
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1 Web Applications Wiregrames
+
+![Wireframe registro](https://cdn.discordapp.com/attachments/323597812694777858/1226235432795242596/IniciarSesionVacio.png?ex=662407bd&is=661192bd&hm=6a8830f9c63332a0b49cfe6e9f8f9bef4ca21ce508f643ee70a5e92666d1451c&)
+
+![Wireframe proyectos](https://cdn.discordapp.com/attachments/323597812694777858/1226235515309916220/Gestion_de_proyectos.png?ex=662407d1&is=661192d1&hm=abf5d0c241f3eca644fb60e4eafbff0927894f611acae6324a77d3d9afbe67d2&)
+
+![Wireframe registro proyecto](https://cdn.discordapp.com/attachments/323597812694777858/1226235644473507920/Registrar_proyecto.png?ex=662407ef&is=661192ef&hm=2699ea7fd15750ce9c91651f24b9a6d2f82aca678449dde7506a0a0b6e508d44&)
+
+![Wireframe](https://cdn.discordapp.com/attachments/323597812694777858/1226235745178615920/Proyecto_1.png?ex=66240808&is=66119308&hm=338321e671507c1c188bfa72c6bd326e63b5feb8fc703babdadf7e67e23be7a3&)
+
+![](https://cdn.discordapp.com/attachments/323597812694777858/1226235801084493867/Gestion_de_recursos.png?ex=66240815&is=66119315&hm=83c44691c9af396ea2fb3eb0464614ae98fc194d6dab21ce8a48622685ed599e&)
+
+![](https://cdn.discordapp.com/attachments/323597812694777858/1226235911080251472/Gestion_de_recursos_01.png?ex=6624082f&is=6611932f&hm=4cdd03523b65cde3e85d56c9d6d1fbe80360c123b43017c120f8b2c2f3948a8b&)
+
+![](https://cdn.discordapp.com/attachments/323597812694777858/1226235965761261641/Comunicacion_y_colaboracion.png?ex=6624083c&is=6611933c&hm=8f8c041dc5572f479e075e176f32b4eeb398a18c5506ab9f72c8cc07d6142bbb&)
+
+![](https://cdn.discordapp.com/attachments/323597812694777858/1226236001513635880/Comunicacion_y_colaboracion_01.png?ex=66240845&is=66119345&hm=1419470cfb529ab55ef521e129b4629c275f5f6826f8044b910c76223fbb5c55&)
+
+![](https://cdn.discordapp.com/attachments/323597812694777858/1226236032098373672/Soporte_y_ayuda.png?ex=6624084c&is=6611934c&hm=01fec225f72583cb0cf4d47e1ecb0dc073ebe20c70048fbc3e189b98e2891ae2&)
+
+![](https://cdn.discordapp.com/attachments/323597812694777858/1226236087765045360/Documentos.png?ex=66240859&is=66119359&hm=90b205945938ba26023d1fd1c11e273478f77aa5a1ebe48a8c094f4a92b68956&)
+
+### 4.4.2 Web Applications Wireflow Diagrams
+
+### 4.4.3 Web Applications Mock-ups
+
+### 4.4.4 Web Applications UserFlow Diagrams
+
+## 4.5. Web Applications Prototyping
+
+
