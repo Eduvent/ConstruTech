@@ -88,3 +88,13 @@ En esta sección, presentamos los User Task Matrix que son las matrices de tarea
 
 
 ### 2.3.3 User Journey Mapping
+
+En esta sección, presentamos los User Journey Maps para nuestros dos segmentos objetivo: los contratistas independientes y pequeñas empresas constructoras representados por Agustín González, y las grandes empresas de construcción representadas por Mónica Rodríguez. Estos mapas muestran la situación actual (As-Is) de la experiencia del usuario, desde el inicio hasta la finalización de un proyecto de construcción, identificando los puntos de contacto clave, las acciones del usuario, sus pensamientos y emociones, así como las oportunidades para mejorar la experiencia.
+
+### User Journey Mapping: Contratistas independientes y pequeñas empresas constructoras.
+
+![](https://media.discordapp.net/attachments/323597812694777858/1227480461044088873/Agustin_Gonzalez_Journey_map.png?ex=66288f43&is=66161a43&hm=3c8334a30380f160c1d133c0db7c0d3f94acf88e69a96310f9285907cbf6f9a6&=&format=webp&quality=lossless&width=720&height=451)
+
+### User Journey Mapping: Grandes empresas de construcción
+
+![](https://cdn.discordapp.com/attachments/323597812694777858/1227480461366923284/Monica_Rodriguez_Journey_map.png?ex=66288f43&is=66161a43&hm=5804ce26ed249090e84e8e12fd59698310bf55b6d901248ce7464b7516cb9185&)
