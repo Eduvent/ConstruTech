@@ -141,6 +141,58 @@
         max-height: none;
     }
 }
+/* STYLES FOR FEATURES SECTION */
+.features-section {
+    background-color: var(--principal-color);
+    padding: 2rem 0;
+    text-align: center;
+}
+/* STYLES FOR TITLE OF FEATURES SECTION */
+.features-title {
+    color: var(--third-color);
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+/* STYLES FOR FEATURES SECTION */
+.features {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+/* STYLES FOR FEATURE ITEM */
+.feature-item {
+    width: auto;
+    max-width: 30%;
+    background-color: var(--second-color);
+    padding: 1rem;
+    border-radius: 10px;
+    margin: 0 1rem 2rem;
+    box-sizing: border-box;
+}
+/* STYLES FOR FEATURE ITEM TITLE AND DESCRIPTION */
+.feature-item h3 {
+    color: var(--third-color);
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+}
+/* STYLES FOR FEATURE ITEM DESCRIPTION */
+.feature-item p {
+    color: var(--third-color);
+    line-height: 1.6;
+}
+/* STYLES FOR RESPONSIVE DESIGN */
+@media (max-width: 768px) {
+    .features {
+        flex-direction: column;
+    }
+
+    .feature-item {
+        width: auto;
+        max-width: 80%;
+        margin: 1rem auto;
+    }
+}
 
 
 
