@@ -7,6 +7,8 @@
     --third-color: #412B19;
     --fourth-color: #F7F4F3;
 }
+
+
 /* BACKGROUND COLOR FOR NAVBAR*/
 .bg-buildsphere{
     background-color: var(--second-color);
@@ -64,4 +66,87 @@
 .btn-buildsphere:hover{
     background-color: var(--third-color);
 }
+
+/*STYLES FOR ABOUT US SECTION*/
+.about-us {
+    max-width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+/*STYLES FOR HEADER OF ABOUT US SECTION*/
+.about-us-header {
+    background-color: var(--second-color);
+    text-align: center;
+    padding: 1.25rem 0;
+    color: var(--third-color);
+}
+
+/*STYLES FOR CONTENT OF ABOUT US SECTION*/
+.about-us-content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: var(--second-color);
+    color: var(--third-color);
+    padding-bottom: 1.25rem;
+}
+
+/*STYLES FOR IMAGE OF ABOUT US SECTION*/
+.about-us-image {
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 1.25rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+/*STYLES FOR IMAGE OF ABOUT US SECTION*/
+.about-us-image img {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: 50vh;
+    border-radius: 10px;
+}
+
+/*STYLES FOR TEXT OF ABOUT US SECTION*/
+.about-us-text {
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 1.25rem;
+    background-color: var(--second-color);
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+/*STYLES FOR RESPONSIVE DESIGN*/
+@media (max-width: 48em) {
+    .about-us-content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .about-us-image, .about-us-text {
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding: 1rem;
+        justify-content: center;
+    }
+
+    .about-us-image img {
+        max-height: none;
+    }
+}
+
+
+
+
+
+
+
+
 
