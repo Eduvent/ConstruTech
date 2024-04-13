@@ -1,0 +1,17 @@
+/*Set variables to colors*/
+:root{
+    --white: #ffffff;
+    --black: #000000;
+    --principal-color: #FBC12E;
+    --second-color: #9C733A;
+    --third-color: #412B19;
+    --fourth-color: #F7F4F3;
+}
+
+.bg-buildsphere{
+    background-color: var(--second-color);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
